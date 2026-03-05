@@ -1,7 +1,7 @@
 # Qiskit
 Quantum  stuff
 
-#link https://t.me/Ox7eck
+contact: https://t.me/Ox7eck
 
 ```
 from qiskit import QuantumCircuit, execute, Aer
